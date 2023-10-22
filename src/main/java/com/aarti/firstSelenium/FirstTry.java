@@ -18,7 +18,182 @@ public class FirstTry {
 		dr.findElement(By.id("3")).click();
 		dr.findElement(By.xpath("//*[@id=\"answerbuttoncontainer\"]/button")).click();
 		
-//		dr.findElement(By.xpath("//*[@id=\"APjFqb\"]")).sendKeys("iphone 15");
+		dr.findElement(By.id("1")).click();
+		dr.findElement(By.xpath("//*[@id=\"answerbuttoncontainer\"]/button")).click();
+		
+		dr.findElement(By.id("1")).click();
+		dr.findElement(By.xpath("//*[@id=\"answerbuttoncontainer\"]/button")).click();
+		
+		dr.findElement(By.id("2")).click();
+		dr.findElement(By.xpath("//*[@id=\"answerbuttoncontainer\"]/button")).click();
+		
+		dr.findElement(By.id("3")).click();
+		dr.findElement(By.xpath("//*[@id=\"answerbuttoncontainer\"]/button")).click();
+		
+		dr.findElement(By.id("2")).click();
+		dr.findElement(By.xpath("//*[@id=\"answerbuttoncontainer\"]/button")).click();
+		
+		dr.findElement(By.id("2")).click();
+		dr.findElement(By.xpath("//*[@id=\"answerbuttoncontainer\"]/button")).click();
+		
+		dr.findElement(By.id("2")).click();
+		dr.findElement(By.xpath("//*[@id=\"answerbuttoncontainer\"]/button")).click();
+		
+		dr.findElement(By.id("3")).click();
+		dr.findElement(By.xpath("//*[@id=\"answerbuttoncontainer\"]/button")).click();
+		
+		dr.findElement(By.id("1")).click();
+		dr.findElement(By.xpath("//*[@id=\"answerbuttoncontainer\"]/button")).click();
+		
+		dr.findElement(By.id("4")).click();
+		dr.findElement(By.xpath("//*[@id=\"answerbuttoncontainer\"]/button")).click();
+		
+		dr.findElement(By.id("1")).click();
+		dr.findElement(By.xpath("//*[@id=\"answerbuttoncontainer\"]/button")).click();
+		
+		dr.findElement(By.id("1")).click();
+		dr.findElement(By.xpath("//*[@id=\"answerbuttoncontainer\"]/button")).click();
+		
+		dr.findElement(By.id("2")).click();
+		dr.findElement(By.xpath("//*[@id=\"answerbuttoncontainer\"]/button")).click();
+		
+		dr.findElement(By.id("3")).click();
+		dr.findElement(By.xpath("//*[@id=\"answerbuttoncontainer\"]/button")).click();
+		
+		dr.findElement(By.id("3")).click();
+		dr.findElement(By.xpath("//*[@id=\"answerbuttoncontainer\"]/button")).click();
+		
+		dr.findElement(By.id("2")).click();
+		dr.findElement(By.xpath("//*[@id=\"answerbuttoncontainer\"]/button")).click();
+		
+		dr.findElement(By.id("1")).click();
+		dr.findElement(By.xpath("//*[@id=\"answerbuttoncontainer\"]/button")).click();
+		
+		dr.findElement(By.id("4")).click();
+		dr.findElement(By.xpath("//*[@id=\"answerbuttoncontainer\"]/button")).click();
+		
+		dr.findElement(By.id("3")).click();
+		dr.findElement(By.xpath("//*[@id=\"answerbuttoncontainer\"]/button")).click();
+		
+		dr.findElement(By.id("2")).click();
+		dr.findElement(By.xpath("//*[@id=\"answerbuttoncontainer\"]/button")).click();
+		
+		dr.findElement(By.id("1")).click();
+		dr.findElement(By.xpath("//*[@id=\"answerbuttoncontainer\"]/button")).click();
+		
+		dr.findElement(By.id("2")).click();
+		dr.findElement(By.xpath("//*[@id=\"answerbuttoncontainer\"]/button")).click();
+		
+		dr.findElement(By.id("3")).click();
+		dr.findElement(By.xpath("//*[@id=\"answerbuttoncontainer\"]/button")).click();
+		
+		dr.findElement(By.id("2")).click();
+		dr.findElement(By.xpath("//*[@id=\"answerbuttoncontainer\"]/button")).click();
+		
+		dr.findElement(By.id("2")).click();
+		dr.findElement(By.xpath("//*[@id=\"answerbuttoncontainer\"]/button")).click();
+		
+		dr.findElement(By.id("2")).click();
+		dr.findElement(By.xpath("//*[@id=\"answerbuttoncontainer\"]/button")).click();
+		
+		dr.findElement(By.id("1")).click();
+		dr.findElement(By.xpath("//*[@id=\"answerbuttoncontainer\"]/button")).click();
+		
+		dr.findElement(By.id("3")).click();
+		dr.findElement(By.xpath("//*[@id=\"answerbuttoncontainer\"]/button")).click();
+		
+		dr.findElement(By.id("2")).click();
+		dr.findElement(By.xpath("//*[@id=\"answerbuttoncontainer\"]/button")).click();
+		
+		dr.findElement(By.id("4")).click();
+		dr.findElement(By.xpath("//*[@id=\"answerbuttoncontainer\"]/button")).click();
+		
+		dr.findElement(By.id("3")).click();
+		dr.findElement(By.xpath("//*[@id=\"answerbuttoncontainer\"]/button")).click();
+		
+		dr.findElement(By.id("1")).click();
+		dr.findElement(By.xpath("//*[@id=\"answerbuttoncontainer\"]/button")).click();
+		
+		dr.findElement(By.id("4")).click();
+		dr.findElement(By.xpath("//*[@id=\"answerbuttoncontainer\"]/button")).click();
+		
+		dr.findElement(By.id("4")).click();
+		dr.findElement(By.xpath("//*[@id=\"answerbuttoncontainer\"]/button")).click();
+		
+		dr.findElement(By.id("4")).click();
+		dr.findElement(By.xpath("//*[@id=\"answerbuttoncontainer\"]/button")).click();
+		
+		dr.findElement(By.id("2")).click();
+		dr.findElement(By.xpath("//*[@id=\"answerbuttoncontainer\"]/button")).click();
+		
+		dr.findElement(By.id("2")).click();
+		dr.findElement(By.xpath("//*[@id=\"answerbuttoncontainer\"]/button")).click();
+		
+		dr.findElement(By.id("1")).click();
+		dr.findElement(By.xpath("//*[@id=\"answerbuttoncontainer\"]/button")).click();
+		
+		dr.findElement(By.id("1")).click();
+		dr.findElement(By.xpath("//*[@id=\"answerbuttoncontainer\"]/button")).click();
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 //		dr.findElement(By.xpath("/html/body/div[1]/div[3]/form/div[1]/div[1]/div[4]/center/input[1]")).click();
 	}
 
